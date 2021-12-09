@@ -1,4 +1,4 @@
-# Basic-Assembly-Calculator
+# Basic Assembly Calculator
 
 ## Description
 
